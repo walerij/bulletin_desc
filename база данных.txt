@@ -21,6 +21,9 @@
   ID объ€влени€
   Link (ссылка на фото)
   Photo_info (информаци€ о фото)
+
+
+https://www.youtube.com/watch?v=XVUjxjprVsM видео по asp.net core
   
 
 
